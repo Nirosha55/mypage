@@ -1,0 +1,99 @@
+.main{
+    height: 850px;
+    border: solid red;
+    width: auto;
+}
+#b1{
+    background-color: aqua;
+    height: 400px;
+    width: 950px;
+    border: solid red;
+}
+
+#b3{
+    background-color: gold;
+    height: 400px;
+    width: 400px;
+    border: solid red;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    height: 121px;
+    border: solid green;
+    text-align: center;
+    line-height: 100px;
+}
+footer{
+    height: 85px;
+    border: solid green;
+    text-align: center;
+    line-height: 100px;
+}
+#logo{
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
+#logo1{
+    position: absolute;
+    left: 30px;
+    top: 25px;
+    
+}
+h1 {
+    color: #2a789c;
+    font-size: 40px;
+    position: relative;
+    bottom: 40px;
+}
+h3{
+    color: #2a789c;
+    font-size: 20px;
+    position: relative;
+   bottom: 130px;
+} 
+nav{
+    height: 70px;
+    line-height: 80px;
+    text-align: center; 
+display: flex;
+justify-content: space-evenly;
+ 
+}
+.last{
+   text-align: start;
+   
+}
+.lasts{
+   height: 150px;
+   border: solid red;
+   width: auto;
+}
+
+#v1{
+    background-color: aqua;
+    height: 145px;
+    width: 300px;
+    border: solid red; 
+}
+#v2{
+    background-color: aqua;
+    height: 145px;
+    width: 300px;
+    border: solid red; 
+}
+#v3{
+    background-color: aqua;
+    height: 145px;
+    width: 300px;
+    border: solid red; 
+}
+#v4{
+    background-color: aqua;
+    height: 145px;
+    width: 300px;
+    border: solid red; 
+}
